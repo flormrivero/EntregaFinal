@@ -13,3 +13,5 @@
 8. "@types/react-dom": "^18.0.11",
 9. "@vitejs/plugin-react": "^3.1.0",
 10. "vite": "^4.2.0"
+
+[Deploy Entrega Final ] (https://entrega-final-self.vercel.app/)
