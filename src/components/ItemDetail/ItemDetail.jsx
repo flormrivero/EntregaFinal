@@ -24,9 +24,9 @@ const ItemDetail = ({ data }) => {
                     : <ItemCount initial={0} stock={10} onAdd={onAdd} />
                     
             }
-        <br />
-        <br />
-        <Link to='/'>Volver a la página principal</Link>    
+            <br />
+            <br />
+            <Link to='/'>Volver a la página principal</Link>    
         </div>
     )
 }
